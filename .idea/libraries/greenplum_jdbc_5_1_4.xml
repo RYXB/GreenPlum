@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="greenplum-jdbc-5.1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/greenplum-jdbc-5.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
